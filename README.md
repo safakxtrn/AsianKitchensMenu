@@ -4,10 +4,10 @@ Proje asya mutfağına ait yemekler ve özelliklerinin bir menü şeklinde göst
 
 Projenin Html ve Css dosyaları Patika.dev tarafından sağlanmış JavaScript kodları tarafımca yazılmıştır.
 
-![](./img/ScreenShot.png "Screen Shot")
+![](./img/ScreenShot.PNG "Screen Shot")
 
-![](./img/ScreenShot_1.png "Screen Shot")
+![](./img/ScreenShot_1.PNG "Screen Shot")
 
-![](./img/ScreenShot_2.png "Screen Shot")
+![](./img/ScreenShot_2.PNG "Screen Shot")
 
-![](./img/ScreenShot_3.png "Screen Shot")
+![](./img/ScreenShot_3.PNG "Screen Shot")
